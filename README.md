@@ -1,2 +1,2 @@
-# scala-specialization-coursera
+# Scala Specialization Course from Coursera - MOOC
 Scala Specialization Course from Coursera - MOOC
